@@ -1,5 +1,7 @@
-# Markdown
+# Markdown v2
 
+Lorem, ipsum dolor.
+Lorem, ipsum dolor.
 Język znaczników przeznaczony do formatowania tekstu. Został stworzony w celu jak najbardziej uproszczonego tworzenia i formatowania tekstu.
 
 ## Formatowanie treści
